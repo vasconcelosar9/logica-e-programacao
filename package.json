@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^11.7.2"
+  },
+  "name": "logica-e-programacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasconcelosar9/logica-e-programacao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasconcelosar9/logica-e-programacao/issues"
+  },
+  "homepage": "https://github.com/vasconcelosar9/logica-e-programacao#readme"
+}
